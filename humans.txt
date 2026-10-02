@@ -1,0 +1,8 @@
+/* TEAM */
+Name: Hun Kimlong
+Role: Web Developer & UI/UX Designer
+Location: Phnom Penh, Cambodia
+Website: https://hunkimlong.com/
+
+/* SITE */
+Last update: 2026-10-02
